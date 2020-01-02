@@ -1,12 +1,7 @@
-# Assignment
-
-## Objectives
-
-By the end of this project you will:
-
-- clone a Github project.
-- install a npm package.
-- debug a piece of code.
+# How to run the application
+- `npm install` to install dependencies
+- `npm start` to start running the application on browser
+- Application is running on `localhost:3000`
 
 ## Introduction
 

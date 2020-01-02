@@ -1,5 +1,5 @@
 fetch('/quote')
-  .then(r => r.json())
+  .then(response => response.json())
   .then(data => {
     document.getElementById('quote').innerText = data.quote;
   });
